@@ -1,4 +1,4 @@
-# Comorbidity Codelists
+# Codelists
 
 The are in .csv format at the suggestion of Katie for easy access for any clinician who might review them. Because of this, the long medcodes and/or snomed codes have hashtags on the end of them so that they retain their accuracy.
 
