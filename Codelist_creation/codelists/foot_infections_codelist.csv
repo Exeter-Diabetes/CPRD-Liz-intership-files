@@ -1,0 +1,162 @@
+MedCodeId,OriginalReadCode,Term,Observations,SnomedCTConceptId
+3128017#,M0071,Carbuncle of heel,135,1197005#
+31909010#,M007,Carbuncle of foot,91,18929007#
+87382016#,M0072,Carbuncle of toe,69,52508001#
+286570019#,A3A0F,Gas gangrene-foot,127,186423003#
+308232013#,M0070,Carbuncle of foot unspecified,13,18929007#
+308233015#,M007z,Carbuncle of foot NOS,4,18929007#
+308256012#,M0170,Boil of foot unspecified,50,44361004#
+308257015#,M017z,Boil of foot NOS,95,44361004#
+308285018#,M0213,Pulp space infection of toe,758,200641008#
+309177010#,M2710,Ischaemic ulcer diabetic foot,17574,201250006#
+309180011#,M2712,Mixed diabetic ulcer - foot,29077,201252003#
+311463014#,N2210,Infected bunion,22068,202928001#
+311809017#,N300U,Acute osteomyelitis-calcaneum,710,203174008#
+311810010#,N300V,Acute osteomyelitis-talus,31,203175009#
+311811014#,N300W,Acute osteomyelitis of foot,1554,240142002#
+311812019#,N300X,Acute osteomyelitis-metatarsal,753,203177001#
+311813012#,N300Y,Acute osteomyelitis-phalanx of toe,3000,203178006#
+311883018#,N302U,Infection of calcaneum,199,203235009#
+311884012#,N302V,Infection of talus,11,203236005#
+311886014#,N302X,Infection of metatarsal,114,203238006#
+311887017#,N302Y,Infection of phalanx of toe,779,203239003#
+322634018#,SD710,"Abrasion of foot, infected",2629,211406001#
+322635017#,SD711,"Abrasion of toe, infected",5635,211407005#
+322636016#,SD71z,"Abrasion and/or friction burn of foot and/or toe, infected",212,269202001#
+359767013#,N3007-2,Foot - acute osteomyelitis,2460,240142002#
+359772016#,N3017-2,Foot - chronic osteomyelitis,1014,240147008#
+402993019#,SD71,"Abrasion or friction burn of foot and toe, infected",516,269202001#
+405854015#,SD730,"Blister of foot, infected",14821,271191007#
+405855019#,SD731,"Blister of toe, infected",4050,271192000#
+411429011#,SD73-1,"Blister of heel, infected",2316,275444001#
+440973016#,M07z1,Infection toe,156726,299989006#
+440974010#,M07z0,Infection foot,68859,299990002#
+443199013#,G733,Ischaemic foot,15459,301755001#
+498448012#,M2717,Neuropathic foot ulcer,9808,59483006#
+512081010#,M271-1,Foot ulcer,344054,95345008#
+1228365016#,M0171,Boil of heel,252,36175004#
+1234087016#,M0172,Boil of toe,396,77265008#
+438311000006110#,SD71-1,"Abrasion or friction burn of heel, infected",439,269202001#
+438451000006116#,SD71-2,"Abrasion or friction burn of toenail, infected",2544,211407005#
+516121000006116#,SD73,"Traumatic blister of foot, infected",9795,271191007#
+519591000006118#,M017,Boil of foot,1633,44361004#
+779881000006110#,M07yz-1,Infection toe,358936,299989006#
+780401000006116#,M07yz-2,Infection foot,46597,299990002#
+888931000006117#,M017-99,Boil - foot,193,44361004#
+2509811000006112#,^ESCTAB250981,Abrasion and/or friction burn of toe with infection,1,714002#
+3082951000006117#,^ESCTFU308295,Furuncle of heel,3,36175004#
+3214681000006118#,^ESCTFU321468,Furuncle of foot,54,44361004#
+3466131000006115#,^ESCTPE346613,Perforating ulcer of the foot,1442,59483006#
+3756511000006116#,^ESCTFU375651,Furuncle of toe,10,77265008#
+3777891000006112#,^ESCTBL377789,Blister of foot with infection,1,78561001#
+4055181000006114#,^ESCTUL405518,Ulcer of foot,6756,95345008#
+4741891000006116#,^ESCTGA474189,Gas gangrene of foot,1,186423003#
+4807571000006117#,^ESCTIS480757,Ischemic ulcer diabetic foot,1,201250006#
+4818711000006118#,^ESCTAC481871,Acute osteomyelitis of calcaneum,12,203174008#
+4818751000006117#,^ESCTAC481875,Acute osteomyelitis of metatarsal,4,203177001#
+4818771000006110#,^ESCTAC481877,Acute osteomyelitis of phalanx of toe,13,203178006#
+5121241000006114#,^ESCTIN512124,Infection of toe web,31,238409008#
+5126451000006116#,^ESCTIS512645,Ischaemic foot ulcer,625,238794007#
+5126461000006119#,^ESCTIS512646,Ischemic foot ulcer,2,238794007#
+5126491000006110#,^ESCTNE512649,Neuroischaemic foot ulcer,579,238796009#
+5144001000006119#,^ESCTCH514400,Chronic osteomyelitis of foot,359,240147008#
+5521771000006116#,^ESCTTR552177,"Traumatic blister of toe, infected",317,271192000#
+5573311000006112#,^ESCTTR557331,"Traumatic blister of heel, infected",212,275444001#
+5873481000006113#,^ESCTIN587348,Infection of toe,10073,299989006#
+5873501000006115#,^ESCTIN587350,Infection of foot,17097,299990002#
+5886711000006111#,^ESCTIS588671,Ischaemia of feet,633,300917007#
+5887041000006114#,^ESCTIN588704,Infected heel,60,300945001#
+5887461000006116#,^ESCTSK588746,Skin ulcer of dorsum of foot,13,300982005#
+5888071000006117#,^ESCTUL588807,Ulcer of toe,3762,301021005#
+5888081000006119#,^ESCTUL588808,Ulcer of heel,191,301022003#
+5898341000006114#,^ESCTIS589834,Ischemic foot,8,301755001#
+5981271000006114#,^ESCTUL598127,Ulcer of big toe,54,308740002#
+5981281000006112#,^ESCTUL598128,Ulcer of great toe,8,308740002#
+5989191000006119#,^ESCTIN598919,Infection of big toe,1194,309462008#
+5989201000006116#,^ESCTIN598920,Infection of great toe,17,309462008#
+6021731000006115#,^ESCTCR602173,Critical ischaemia of foot,602,312822006#
+6021741000006113#,^ESCTCR602174,Critical ischemia of foot,9,312822006#
+6348911000006117#,^ESCTDI634891,Diabetic foot ulcer,10922,371087003#
+7103391000006115#,^ESCTCH710339,Chronic ulcer of foot,17,429445008#
+7108391000006114#,^ESCTIS710839,Ischaemic ulcer of toe,7,429768000#
+7108401000006111#,^ESCTIS710840,Ischemic ulcer of toe,4,429768000#
+7128761000006114#,^ESCTCH712876,Chronic ulcer of toe,6,430935001#
+7535131000006115#,^ESCTOS753513,Osteomyelitis of midfoot,4,700439005#
+7535141000006113#,^ESCTOS753514,Osteomyelitis of hindfoot,1,700440007#
+7597921000006119#,^ESCTOS759792,Osteomyelitis of forefoot,5,705059000#
+8452421000006115#,^ESCTAC845242,Acute osteomyelitis of right foot,1,1077351000119104#
+8452451000006112#,^ESCTAC845245,Acute osteomyelitis of left foot,1,1077371000119108#
+8452791000006110#,^ESCTOS845279,Osteomyelitis of left foot,19,1077811000119107#
+8452811000006114#,^ESCTOS845281,Osteomyelitis of right foot,18,1077821000119100#
+9310731000006111#,^ESCTCH931073,Chronic ulcer of heel,16,10635431000119108#
+9313691000006110#,^ESCTUL931369,Ulcer of midfoot,2,10662511000119101#
+9315571000006114#,^ESCTIN931557,Infection of toenail,34,10677511000119107#
+9876421000006110#,^ESCTSU987642,Subacute osteomyelitis of left foot,1,16030511000119107#
+13919651000006113#,^ESCT1391965,Ulcer of heel due to atherosclerosis of artery of lower limb,99,792846001#
+13931401000006116#,^ESCT1393140,Ulcer of left foot,5,830071006#
+13931411000006118#,^ESCT1393141,Ulcer of right foot,7,830072004#
+13953211000006119#,^ESCT1395321,Ulcer of left foot due to diabetes mellitus,1,860978005#
+14002121000006112#,^ESCT1400212,Infected abrasion of left foot,5,11793501000119109#
+14004281000006114#,^ESCT1400428,Infected abrasion of right great toe,1,11862241000119102#
+14004311000006111#,^ESCT1400431,Infected abrasion of skin of left great toe,1,11862281000119107#
+14004321000006115#,^ESCT1400432,Infected abrasion of left great toe,1,11862281000119107#
+14071551000006111#,^ESCT1407155,Ischaemic ulcer of foot due to diabetes mellitus,178,201250006#
+117333013#,M08C,Cellulitis of toe,13131,70637004#
+206541013#,M08B,Cellulitis of foot,252643,128276007#
+308266016#,M02,Cellulitis and abscess of finger and toe,25518,200628009#
+308282015#,M021,Cellulitis and abscess of toe,87460,200638004#
+308283013#,M0210,Cellulitis and abscess of toe unspecified,7911,200638004#
+308358010#,M0370,Cellulitis and abscess of foot unspecified,12442,267783003#
+308359019#,M0371,Cellulitis and abscess of heel,1667,200686006#
+308360012#,M0372,Cellulitis in diabetic foot,4302,200687002#
+308361011#,M037z,Cellulitis and abscess of foot NOS,8047,267783003#
+309179013#,M2711,Neuropathic diabetic ulcer - foot,44017,201251005#
+322671016#,SD75z,"Insect bite, nonvenomous, of foot and toe, infected, NOS",64,269206003#
+399892014#,M021z,Cellulitis and abscess of toe NOS,3455,200638004#
+399893016#,M02z,Cellulitis and abscess of digit NOS,18881,200628009#
+399903012#,M037,Cellulitis and abscess of foot excluding toe,110026,267783003#
+402999015#,SD75,"Insect bite, nonvenomous, of foot and toe, infected",410,269206003#
+451404016#,2G54,O/E - Right foot ulcer,32677,308099008#
+451405015#,2G55,O/E - Left foot ulcer,32009,308100000#
+1221528014#,SD751,"Insect bite, nonvenomous, of toe, infected",26,17384006#
+1234441017#,SD750,"Insect bite, nonvenomous, of foot, infected",299,801006#
+1488395018#,2G5H,O/E - Right diabetic foot - ulcerated,42032,394673007#
+1488396017#,2G5L,O/E - Left diabetic foot - ulcerated,44657,394674001#
+2532976019#,2G5W,O/E - left chronic diabetic foot ulcer,1246,414890007#
+2532977011#,2G5V,O/E - right chronic diabetic foot ulcer,1001,414906009#
+540851000006112#,M037-1,Cellulitis and abscess of foot,12377,267783003#
+773881000006113#,SD75-1,"Insect bite, nonvenomous, of heel, infected",6,801006#
+888941000006110#,M02-99,Cellulitis/abscess -finger/toe,1292,200628009#
+888961000006114#,M021-99,Cellulitis - toe,9376,200638004#
+889061000006117#,M037-99,Cellulitis - foot - excl. toe,7815,267783003#
+2511181000006112#,^ESCTNO251118,Nonvenomous insect bite of foot with infection,19,801006#
+2775971000006116#,^ESCTNO277597,Nonvenomous insect bite of toe with infection,6,17384006#
+3415651000006114#,^ESCTCE341565,Cellulitis of heel,37,56351000#
+5675581000006117#,^ESCTIN567558,Infected insect bite of dorsum of foot,48,283353003#
+5675591000006119#,^ESCTIN567559,Infected insect bite of sole of foot,5,283354009#
+5721411000006115#,^ESCTCE572141,Cellulitis of foot excluding toe,32,287002007#
+5975181000006110#,^ESCTON597518,On examination - Right foot ulcer,2,308099008#
+6020431000006117#,^ESCTDE602043,Debridement of foot ulcer,5062,312733004#
+6546281000006117#,^ESCTON654628,On examination - Right diabetic foot - ulcerated,2,394673007#
+6866781000006116#,^ESCTON686678,On examination - right chronic diabetic foot ulcer,2,414906009#
+7969001000006112#,^ESCTFO796900,Foot ulcer due to type 2 diabetes mellitus,11,1521000119100#
+8026031000006115#,^ESCTHE802603,Heel AND/OR midfoot ulcer due to type 2 diabetes mellitus,1,87451000119102#
+8026041000006113#,^ESCTFO802604,Forefoot ulcer due to type 2 diabetes mellitus,2,87461000119100#
+8026061000006112#,^ESCTHE802606,Heel AND/OR midfoot ulcer due to type 1 diabetes mellitus,1,87481000119109#
+8044171000006110#,^ESCTNE804417,Neuropathic toe ulcer due to type 2 diabetes mellitus,2,140381000119104#
+8044181000006113#,^ESCTUL804418,Ulcer of toe due to type 2 diabetes mellitus,3,140391000119101#
+8044221000006116#,^ESCTIS804422,Ischaemic foot ulcer due to type 2 diabetes mellitus,3,140521000119107#
+9313421000006110#,^ESCTDI931342,Diabetic ulcer of left foot due to diabetes mellitus type 2,1,10660471000119109#
+9313441000006115#,^ESCTDI931344,Diabetes type 2 with diabetic ulcer of left foot,6,10660471000119109#
+13790061000006119#,^ESCT1379006,Neuropathic ulcer of foot due to diabetes mellitus,1217,201251005#
+13917091000006117#,^ESCT1391709,Neuropathic ulcer of heel due to type 2 diabetes mellitus,77,789569005#
+14071441000006113#,^ESCT1407144,Cellulitis of foot due to diabetes mellitus,58,200687002#
+14095251000006116#,^ESCT1409525,Neuropathic ulcer of toe due to type 2 diabetes mellitus,65,140381000119104#
+14095271000006114#,^ESCT1409527,Neuropathic ulcer of foot due to type 2 diabetes mellitus,48,140531000119105#
+1483044011#,M0212,Paronychia of toe,581473,388983002#
+13521361000006119#,^ESCT1352136,Paronychia of toe of left foot due to ingrown toenail,1,773294005#
+13521391000006110#,^ESCT1352139,Paronychia of toe of right foot due to ingrown toenail,3,773295006#
+13699981000006113#,^ESCT1369998,Paronychia of toe of left foot,8,10628231000119100#
+13699991000006111#,^ESCT1369999,Paronychia of toe of right foot,4,10628271000119102#
+322645015#,SD722,Neuropathic foot blister,1071,211412006#
+1724321000006115#,EMISNQNE25,Neuropathic foot ulcer,190,1724321000006104#
