@@ -1,0 +1,17 @@
+MedCodeId,OriginalReadCode,Term,Observations,SnomedCTConceptId
+302648014#,J16y6,Gastric atonia,244,196753007#
+459361011#,J16y9,Delayed gastric emptying,6978,314944001#
+2475973017#,J16y8,Gastric dysmotility,5251,253763002#
+299601000000114#,C10EQ,Gastroparesis with type 1 diabetes mellitus,7457,713702000#
+299621000000117#,C10FR,Gastroparesis with type 2 diabetes mellitus,4801,713703005#
+1667921000000117#,C10FR-1,Type II diabetes mellitus with gastroparesis,417,713703005#
+1667941000000112#,C10EQ-1,Type I diabetes mellitus with gastroparesis,370,713702000#
+3735951000006116#,^ESCTNO373595,Nondiabetic gastroparesis,1070,75994008#
+5084131000006112#,^ESCTGA508413,Gastroparesis syndrome,244,235675006#
+5084151000006117#,^ESCTGA508415,Gastric stasis,2,235675006#
+5084161000006115#,^ESCTGA508416,Gastroparesis,212,235675006#
+7708051000006112#,^ESCTGA770805,Gastroparesis due to diabetes mellitus type I,1,713702000#
+7708081000006116#,^ESCTGA770808,Gastroparesis due to diabetes mellitus,7,713704004#
+12363701000006117#,^ESCT1236370,Gastroparesis with diabetes mellitus,4,713704004#
+12705071000006113#,^ESCT1270507,Gastroparesis due to type 1 diabetes mellitus,39,713702000#
+12705081000006111#,^ESCT1270508,Gastroparesis due to type 2 diabetes mellitus,10,713703005#

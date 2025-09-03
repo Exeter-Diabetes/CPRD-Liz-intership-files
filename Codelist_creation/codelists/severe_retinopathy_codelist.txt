@@ -1,0 +1,132 @@
+MedCodeId	Term	Observations_jun24	old_2021	new_2024
+841011000006112	Severe nonproliferative diabetic retinopathy	1685	1	1
+14077711000006111	Severe nonproliferative retinopathy due to diabetes mellitus	102	0	1
+6022651000006113	Severe nonproliferative retinopathy	19	1	1
+6630851000006115	Very severe nonproliferative diabetic retinopathy	12	1	1
+12085251000006113	Severe nonproliferative diabetic retinopathy of right eye	11	1	1
+12224761000006115	Severe NPDR (nonproliferative diabetic retinopathy)	5	1	1
+12085291000006119	Severe nonproliferative diabetic retinopathy of left eye	5	1	1
+6630751000006114	Severe nonproliferative diabetic retinopathy with no macular oedema	2	1	1
+6630721000006117	Severe nonproliferative diabetic retinopathy with clinically significant macular oedema	1	1	1
+12085281000006117	Severe NPDR (nonproliferative diabetic retinopathy) of right eye	1	1	1
+12085271000006115	Severe nonproliferative retinopathy of right eye due to diabetes mellitus	1	1	1
+12085351000006119	Very severe nonproliferative diabetic retinopathy of right eye	1	1	1
+12085411000006113	Very severe NPDR (nonproliferative diabetic retinopathy) of left eye	1	1	1
+13965721000006114	Severe nonproliferative diabetic retinopathy with venous beading	1	0	1
+12224751000006117	Severe nonproliferative retinopathy co-occurrent and due to diabetes mellitus	NA	1	0
+6022661000006110	Severe NPDR	NA	1	0
+6630551000006117	Very severe NPDR with no macular edema	NA	1	0
+6630541000006119	Very severe NPDR with no macular oedema	NA	1	0
+6630521000006114	Very severe nonproliferative diabetic retinopathy with no macular oedema	NA	1	0
+12300361000006111	Very severe NPDR (nonproliferative diabetic retinopathy) with no macular oedema	NA	1	0
+6630531000006112	Very severe nonproliferative diabetic retinopathy with no macular edema	NA	1	0
+12300341000006112	Very severe nonproliferative retinopathy without macular edema co-occurrent and due to diabetes mellitus	NA	1	0
+12300371000006116	Very severe NPDR (nonproliferative diabetic retinopathy) with no macular edema	NA	1	0
+12300351000006114	Very severe nonproliferative retinopathy without macular oedema co-occurrent and due to diabetes mellitus	NA	1	0
+12300421000006111	Severe nonproliferative retinopathy with clinically significant macular edema co-occurrent and due to diabetes mellitus	NA	1	0
+6630731000006119	Severe nonproliferative diabetic retinopathy with clinically significant macular edema	NA	1	0
+12300441000006116	Severe NPDR (nonproliferative diabetic retinopathy) with CSME (clinically significant macular edema)	NA	1	0
+12300451000006119	Severe NPDR (nonproliferative diabetic retinopathy) with CSME (clinically significant macular oedema)	NA	1	0
+6630741000006112	Severe NPDR with CSME	NA	1	0
+12300431000006114	Severe nonproliferative retinopathy with clinically significant macular oedema co-occurrent and due to diabetes mellitus	NA	1	0
+12300481000006110	Severe NPDR (nonproliferative diabetic retinopathy) with no macular oedema	NA	1	0
+6630771000006116	Severe NPDR with no macular oedema	NA	1	0
+12300491000006113	Severe NPDR (nonproliferative diabetic retinopathy) with no macular edema	NA	1	0
+12300471000006112	Severe nonproliferative retinopathy without macular oedema co-occurrent and due to diabetes mellitus	NA	1	0
+12300461000006117	Severe nonproliferative retinopathy without macular edema co-occurrent and due to diabetes mellitus	NA	1	0
+6630781000006118	Severe NPDR with no macular edema	NA	1	0
+6630761000006111	Severe nonproliferative diabetic retinopathy with no macular edema	NA	1	0
+6630861000006118	Very severe NPDR	NA	1	0
+12300501000006117	Very severe nonproliferative retinopathy co-occurrent and due to diabetes mellitus	NA	1	0
+12300511000006119	Very severe NPDR (nonproliferative diabetic retinopathy)	NA	1	0
+12300551000006118	Very severe NPDR (nonproliferative diabetic retinopathy) with CSME (clinically significant macular oedema)	NA	1	0
+12300521000006110	Very severe nonproliferative retinopathy with clinically significant macular edema co-occurrent and due to diabetes mellitus	NA	1	0
+6630891000006114	Very severe NPDR with CSME	NA	1	0
+12300531000006113	Very severe nonproliferative retinopathy with clinically significant macular oedema co-occurrent and due to diabetes mellitus	NA	1	0
+12300541000006115	Very severe NPDR (nonproliferative diabetic retinopathy) with CSME (clinically significant macular edema)	NA	1	0
+6630871000006113	Very severe nonproliferative diabetic retinopathy with clinically significant macular oedema	NA	1	0
+6630881000006111	Very severe nonproliferative diabetic retinopathy with clinically significant macular edema	NA	1	0
+12085261000006110	Severe nonproliferative retinopathy of right eye co-occurrent and due to diabetes mellitus	NA	1	0
+12085301000006118	Severe nonproliferative retinopathy of left eye co-occurrent and due to diabetes mellitus	NA	1	0
+12085321000006111	Severe NPDR (nonproliferative diabetic retinopathy) of left eye	NA	1	0
+12085311000006115	Severe nonproliferative retinopathy of left eye due to diabetes mellitus	NA	1	0
+12085381000006110	Very severe NPDR (nonproliferative diabetic retinopathy) of right eye	NA	1	0
+12085361000006117	Very severe nonproliferative retinopathy of right eye co-occurrent and due to diabetes mellitus	NA	1	0
+12085371000006112	Very severe nonproliferative retinopathy of right eye due to diabetes mellitus	NA	1	0
+12085391000006113	Very severe nonproliferative diabetic retinopathy of left eye	NA	1	0
+12085401000006110	Very severe nonproliferative retinopathy of left eye co-occurrent and due to diabetes mellitus	NA	1	0
+98476015	Proliferative diabetic retinopathy	120586	1	1
+2159977011	O/E - right eye proliferative diabetic retinopathy	34331	1	1
+2159978018	O/E - left eye proliferative diabetic retinopathy	33868	1	1
+975251000006111	O/E - right eye stable treated proliferative diabetic retinopathy	7328	1	1
+975261000006113	O/E - left eye stable treated proliferative diabetic retinopathy	6749	1	1
+297755010	Advanced diabetic maculopathy	6253	1	1
+255339014	On examination - retinal vascular proliferation	6203	1	1
+1488434016	O/E - Laser photocoagulation scars	3686	1	1
+297782019	Proliferative retinopathy	2489	1	1
+297779012	Other proliferative retinopathy	2015	1	1
+1785163015	High risk proliferative diabetic retinopathy	1485	1	1
+455408014	Advanced diabetic retinal disease	1147	1	1
+299478011	[X]Other proliferative retinopathy	830	1	1
+14059421000006119	Proliferative retinopathy due to diabetes mellitus	795	0	1
+6022721000006112	Proliferative diabetic retinopathy - high risk	315	1	1
+2549896013	O/E - sight threatening diabetic retinopathy	167	1	1
+12189891000006110	PDR - proliferative diabetic retinopathy	127	1	1
+297781014	Other specified other proliferative retinopathy	121	1	1
+6020151000006115	Panretinal laser photocoagulation	95	1	1
+6020161000006118	Scatter retinal laser photocoagulation	53	1	1
+14077731000006117	High risk proliferative retinopathy due to diabetes mellitus	47	0	1
+6022691000006119	Early proliferative diabetic retinopathy	36	1	1
+6630581000006113	Very severe proliferative diabetic retinopathy	35	1	1
+6546981000006111	On examination - Laser photocoagulation scars	29	1	1
+6866541000006117	On examination - left eye stable treated proliferative diabetic retinopathy	19	1	1
+3495471000006115	Vasoproliferative retinopathy	18	1	1
+14071371000006113	Advanced maculopathy due to diabetes mellitus	17	0	1
+6022761000006118	Proliferative diabetic retinopathy - quiescent	15	1	1
+6866901000006111	On examination - right eye stable treated proliferative diabetic retinopathy	15	1	1
+14077471000006114	Advanced retinal disease due to diabetes mellitus	9	0	1
+6022731000006110	High risk proliferative retinopathy	8	1	1
+3495481000006117	Retinal vascular proliferation	8	1	1
+14072601000006115	Proliferative retinopathy with optic disc neovascularisation due to diabetes mellitus	8	0	1
+14077751000006112	Proliferative retinopathy with iris neovascularisation due to diabetes mellitus	7	0	1
+6022671000006115	Proliferative diabetic retinopathy - non high risk	6	1	1
+6761861000006114	On examination - right eye proliferative diabetic retinopathy	6	1	1
+6761881000006116	On examination - left eye proliferative diabetic retinopathy	6	1	1
+14077721000006115	Non-high-risk proliferative retinopathy due to diabetes mellitus	5	0	1
+5990541000006113	Advanced retinal disease	4	1	1
+7968881000006119	Proliferative diabetic retinopathy due to type 2 diabetes mellitus	3	1	1
+5030691000006115	Proliferative diabetic retinopathy with new vessels on disc	2	1	1
+5030741000006118	Proliferative diabetic retinopathy with new vessels elsewhere than on disc	2	1	1
+8019531000006110	Proliferative retinopathy due to type 1 diabetes mellitus	2	1	1
+14072611000006117	Proliferative retinopathy with neovascularisation elsewhere than the optic disc due to diabetes mellitus	2	0	1
+5030761000006119	Proliferative retinopathy with new vessels elsewhere than on disc	1	1	1
+6022771000006113	Inactive proliferative diabetic retinopathy	1	1	1
+6630481000006114	Proliferative diabetic retinopathy - high risk with no macular oedema	1	1	1
+6630641000006118	High risk proliferative diabetic retinopathy not amenable to photocoagulation	1	1	1
+6630661000006119	Non-high-risk proliferative diabetic retinopathy with no macular oedema	1	1	1
+6630671000006114	Non-high-risk proliferative diabetic retinopathy with no macular edema	1	1	1
+6630801000006119	Proliferative diabetic retinopathy - high risk with clinically significant macular edema	1	1	1
+6630821000006112	Non-high-risk proliferative diabetic retinopathy with clinically significant macular oedema	1	1	1
+14077741000006110	Quiescent proliferative retinopathy due to diabetes mellitus	1	0	1
+8032451000006118	Proliferative diabetic retinopathy following surgery	NA	1	0
+7968891000006116	Proliferative diabetic retinopathy due to type II diabetes mellitus	NA	1	0
+12454011000006116	O/E - retinal vascular prolif.	NA	1	0
+4573201000006110	On examination - retinal vascular proliferation	NA	1	0
+12220701000006114	Advanced maculopathy with diabetes mellitus	NA	1	0
+12220691000006114	Advanced maculopathy co-occurrent and due to diabetes mellitus	NA	1	0
+5030701000006115	Proliferative diabetic retinopathy new vessels on disc	NA	1	0
+5030711000006117	Proliferative retinopathy new vessels on disc	NA	1	0
+5239231000006119	Peripheral vasoproliferative retinopathy	NA	1	0
+12224591000006115	Advanced retinal disease with diabetes mellitus	NA	1	0
+12224581000006118	Advanced retinal disease co-occurrent and due to diabetes mellitus	NA	1	0
+6022801000006110	Proliferative diabetic retinopathy - iris neovascularization	NA	1	0
+6022791000006114	Proliferative diabetic retinopathy - iris neovascularisation	NA	1	0
+6630491000006112	Proliferative diabetic retinopathy - high risk with no macular edema	NA	1	0
+6630711000006113	Sight threatening diabetic retinopathy	NA	1	0
+6630791000006115	Proliferative diabetic retinopathy - high risk with clinically significant macular oedema	NA	1	0
+6630831000006110	Non-high-risk proliferative diabetic retinopathy with clinically significant macular edema	NA	1	0
+6910411000006112	On examination - sight threatening diabetic retinopathy	NA	1	0
+12189901000006114	Proliferative retinopathy co-occurrent and due to diabetes mellitus	NA	1	0
+12189881000006112	Proliferative retinopathy with diabetes mellitus	NA	1	0
+8030621000006112	Proliferative retinopathy with retinal oedema due to type 2 diabetes mellitus	NA	1	0
+8030631000006110	Proliferative retinopathy with retinal edema due to type 2 diabetes mellitus	NA	1	0
