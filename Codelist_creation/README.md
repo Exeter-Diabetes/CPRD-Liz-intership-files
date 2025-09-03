@@ -5,4 +5,4 @@ This contains all the files relating to my codelist creation, including notes on
 I made codelists for the following conditions:
 * Foot infections and ulcers
 * Gastroparesis
-* Severe and non-severe retinopathy (Created from a previously existing retinopathy codelist)
+* Severe and non-severe retinopathy (created from a previously existing retinopathy codelist)
