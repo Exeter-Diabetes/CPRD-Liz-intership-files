@@ -1,6 +1,6 @@
 # Survival Analysis Notes
 
-This folder contains notes I made on each of the covariates included in the Cox proportional hazards model. Since I had no knowledge or experience of diabetes I had to do lots of reading and made basic notes on the following:
+This folder contains notes I made on each of the covariates included in the Cox proportional hazards model. Since I had no prior knowledge or experience of diabetes I had to do lots of reading and made basic notes on the following:
 * Units of each covariate, and coding of categorical variables
 * The relationship of each covariate with Type 2 diabetes
 * The relationship of each covariate with diabetic retinopathy
