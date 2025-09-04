@@ -6,4 +6,4 @@ These are the scripts I used to conduct survival analyses on non-severe and seve
 * Forest plot of results
 * Stepwise model selections
 
-Also included is Martha's cohort definition which is required for both of the scripts to run.
+Also included is Martha's cohort definition which is required for both of the scripts.
