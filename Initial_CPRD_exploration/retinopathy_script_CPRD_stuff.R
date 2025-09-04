@@ -8,7 +8,6 @@ cprd = CPRDData$new(cprdEnv = "diabetes-jun2024",cprdConf = "~/.aurum.yaml")
 
 analysis = cprd$analysis("lm")
 
-################################################################################
 
 #### Import retinopathy codelist and severe/non-severe codelists ####
 all_retinopathy <- read_delim("C:/Users/Liz/OneDrive - University of Exeter/BRC_internship/Retinopathy/exeter_medcodelist_retinopathy.txt", col_types=cols(.default=col_character()))
@@ -17,7 +16,6 @@ severe <- read_delim("C:/Users/Liz/OneDrive - University of Exeter/BRC_internshi
 
 non_severe <- read_delim("C:/Users/Liz/OneDrive - University of Exeter/BRC_internship/Retinopathy/non_severe_retinopathy_codelist.txt", col_types=cols(.default=col_character()))
 
-################################################################################
 
 #### Find all CPRD records with medcodes that relate to retinopathy ####
 raw_retinopathy <- cprd$tables$observation %>%
@@ -39,7 +37,6 @@ earliest_retinopathy <- raw_retinopathy %>%
   ungroup() %>%
   analysis$cached("earliest_retinopathy", unique_indexes="patid")
 
-################################################################################
 
 #### Same steps but for the severe codelist ####
 raw_severe <- raw_retinopathy %>%
@@ -58,7 +55,6 @@ earliest_severe <- raw_severe %>%
   ungroup() %>%
   analysis$cached("earliest_severe", unique_indexes="patid")
 
-################################################################################
 
 #### Same steps but for the non-severe codelist ####
 raw_non_severe <- raw_retinopathy %>%
@@ -79,7 +75,7 @@ earliest_non_severe <- raw_non_severe %>%
 
 ################################################################################
 
-#### Accessing the diabetes cohort for fun ####
+#### Accessing the diabetes cohort ####
 # These three lines of code are from Katie's email
 analysis = cprd$analysis("all")
 
@@ -102,7 +98,6 @@ diabetes_retinopathy_match %>% count()
 diabetes_retinopathy_match %>% distinct(patid) %>% count()
 # 800,770
 
-################################################################################
 
 # Find out which members of the diabetes cohort have a severe retinopathy code
 diabetes_severe_match <- diabetes_cohort %>%
@@ -112,7 +107,6 @@ diabetes_severe_match <- diabetes_cohort %>%
 diabetes_severe_match %>% distinct(patid) %>% count()
 # 66,073
 
-################################################################################
 
 # Find out which members of the diabetes cohort have a non-severe retinopathy code
 diabetes_non_severe_match <- diabetes_cohort %>%
@@ -124,12 +118,12 @@ diabetes_non_severe_match %>% distinct(patid) %>% count()
 
 ################################################################################
 
-# To load the actual data onto R studio
+# To load the actual data onto R studio (because I didn't know how to do this before)
 data <- diabetes_severe_match %>% collect() 
 
 ################################################################################
 
-#### Load cached tables ####
+#### Load cached tables (because I wasn't sure how to do this before) ####
 raw_retinopathy <- raw_retinopathy %>% analysis$cached("raw_retinopathy")
 earliest_retinopathy <- earliest_retinopathy %>% analysis$cached("earliest_retinopathy")
 raw_severe <- raw_severe %>% analysis$cached("raw_severe")
@@ -137,25 +131,18 @@ earliest_severe <- earliest_severe %>% analysis$cached("earliest_severe")
 raw_non_severe <- raw_non_severe %>% analysis$cached("raw_non_severe")
 earliest_non_severe <- earliest_non_severe %>% analysis$cached("earliest_non_severe")
 
-# How many people have only one severe code (pp=per person)
+
+#### How many people have only one severe code (pp=per person) ####
 severe_codes_pp <- raw_severe %>%
   group_by(patid) %>%
   summarise(codes_per_person=n()) %>%
   ungroup() %>%
   analysis$cached("severe_codes_pp", unique_indexes="patid")
 
-count_ones <- severe_codes_pp %>% count(codes_per_person == 1) %>%
-  analysis$cached("count_ones")
-# 31,612 people with only one severe code
-
-
-#### Attempt to re-do this god awful method of counting ones ####
-
 severe_codes_pp <- collect(severe_codes_pp)
-count_ones <- severe_codes_pp %>% count(codes_per_person == 1)
-# Works 10x better bc I don't have to go to MySQL to view the table
 
-num_ones <- sum(severe_codes_pp$codes_per_person == 1) # Also works
+count_ones <- severe_codes_pp %>% count(codes_per_person == 1)
+# 31,612 people with only one severe code
 
 
 #### Same for non-severe codes ####
